@@ -1,4 +1,3 @@
-<#
 .SYNOPSIS
     Initializes PowerCLI by importing the module, optionally updating it, and connecting to a specified vCenter server.
 
@@ -22,4 +21,3 @@
 .NOTES
     - Requires the VMware.PowerCLI module to be installed.
     - Utilizes Out-GridView for selection if multiple vCenter servers are provided.
-#>
